@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="AVI" acestream-mediainfo-video-codec="xvid" acestream-mediainfo-audio-codec="MPEG-1/2 L3",Ocho apellidos Marroquies
+acestream://50ea9249cf9b9536ca41386e273be45e76f963e3
+#EXTINF:-1 acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3",Pobres criaturas (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+acestream://48b0ee708917c5f215a7bd20f0ca09207b873eb1
