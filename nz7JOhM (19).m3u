@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Ocho apellidos Marroquies" acestream-autosearch="1" acestream-mediainfo-container="AVI" acestream-mediainfo-video-codec="xvid" acestream-mediainfo-audio-codec="MPEG-1/2 L3",Ocho apellidos Marroquies
+http://192.168.1.54:6878/ace/getstream?id=50ea9249cf9b9536ca41386e273be45e76f963e3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Pobres criaturas (2023) [4k 2160p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3",Pobres criaturas (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?id=48b0ee708917c5f215a7bd20f0ca09207b873eb1&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Road House De profesion duro (2024) [4k 2160p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1",Road House De profesion duro (2024) [4k 2160p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?id=2923c5c37ab38d4c03b7689b0efa9289673b4205&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="M. LaLiga" acestream-autosearch="1" group-title="sport",M. LaLiga
+http://192.168.1.54:6878/ace/getstream?infohash=83d43d89061d3790c1a9938a967ce8734a0bd6ce&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="DAZN F1 HD" acestream-autosearch="1" group-title="sport",DAZN F1 HD
+http://192.168.1.54:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="DAZN2" acestream-autosearch="1" group-title="sport",DAZN2
+http://192.168.1.54:6878/ace/getstream?infohash=c93a0d4914713db942fbb210bac467b0224c63a6&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="DAZN3" acestream-autosearch="1" group-title="sport",DAZN3
+http://192.168.1.54:6878/ace/getstream?infohash=98fba924421aa1e4bd28e74d74a2726d0459b594&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="M. Liga de Campeones" acestream-autosearch="1" group-title="sport",M. Liga de Campeones
+http://192.168.1.54:6878/ace/getstream?infohash=8c1c3eae077f3a786ed2f0a426197ea93fdf7373&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="DAZN1" acestream-autosearch="1" group-title="sport",DAZN1
+http://192.168.1.54:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Damsel (2024) CAST.mp4" acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="MPEG-4" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AAC LC",Damsel (2024) CAST.mp4
+http://192.168.1.54:6878/ace/getstream?id=e1205196da751050073fb10e4a24c21ccdd92cf0&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Retribution (2023) [Bluray 1080p.mkv" acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AC3+",Retribution (2023) [Bluray 1080p.mkv
+http://192.168.1.54:6878/ace/getstream?id=4cd9f15d8f222dd5fb0e8970649fad56a1099bcb&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Ricky Stanicky (2024) CAST.mp4" acestream-autosearch="1" group-title="pelis",Ricky Stanicky (2024) CAST.mp4
+http://192.168.1.54:6878/ace/getstream?id=756e64255a8c01510b9a9009dd685671f6cd4da4&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Sympathy for the Devil (2023) cast.mp4" acestream-autosearch="1" group-title="pelis" acestream-mediainfo-container="MPEG-4" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AAC LC",Sympathy for the Devil (2023) cast.mp4
+http://192.168.1.54:6878/ace/getstream?id=9ea973b489ea891b924fc315edd8f603b2455e0f&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Argylle (2024) [4k 2160p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1",Argylle (2024) [4k 2160p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?url=http%3A%2F%2F127.0.0.1%3A6878%2Face%2Fgetstream%3Fid%3Dce875e5d0380b395045d021aa6586162c93a1c66%26hlc%3D1%26transcode_audio%3D0%26transcode_mp3%3D0%26transcode_ac3%3D0%26preferred_audio_language%3Deng&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Elcano.top ready with Opera VPN" acestream-autosearch="1" group-title="amateur" group-title="f1",Elcano.top ready with Opera VPN
+http://192.168.1.54:6878/ace/getstream?infohash=521ac9d09b4aca552bf916cb3c045a3fad3838e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Elcano.top ready with Opera VPN" acestream-autosearch="1" group-title="amateur" group-title="f1",Elcano.top ready with Opera VPN
+http://192.168.1.54:6878/ace/getstream?infohash=521ac9d09b4aca552bf916cb3c045a3fad3838e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Elcano.top ready with Opera VPN" acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+http://192.168.1.54:6878/ace/getstream?infohash=521ac9d09b4aca552bf916cb3c045a3fad3838e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="M. Golf HD" acestream-autosearch="1" group-title="sport",M. Golf HD
+http://192.168.1.54:6878/ace/getstream?infohash=b715ba3d23d3dca6736ac86990efe105087c3401&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Elcano.top ready with Opera VPN" acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+http://192.168.1.54:6878/ace/getstream?infohash=521ac9d09b4aca552bf916cb3c045a3fad3838e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="M. Golf HD" acestream-autosearch="1" group-title="sport",M. Golf HD
+http://192.168.1.54:6878/ace/getstream?infohash=b715ba3d23d3dca6736ac86990efe105087c3401&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Los asesinos de la luna (2023) [4k 2160p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="V_MPEGH/ISO/HEVC" acestream-mediainfo-audio-codec="AC3+",Los asesinos de la luna (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?id=18c4c8ad7f555cc4bc8913dfe4a10fff02756aa2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Ocho apellidos marroquis (2023) [Bluray 1080p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1" group-title="movies" acestream-mediainfo-container="Matroska" acestream-mediainfo-video-codec="AVC" acestream-mediainfo-audio-codec="AC3+",Ocho apellidos marroquis (2023) [Bluray 1080p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?id=fadd2db4e1fcec19278fc520dd5f5b45668e84fc&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Elcano.top ready with Opera VPN" acestream-autosearch="1" group-title="f1",Elcano.top ready with Opera VPN
+http://192.168.1.54:6878/ace/getstream?infohash=521ac9d09b4aca552bf916cb3c045a3fad3838e2&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Los asesinos de la luna (2023) [4k 2160p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1",Los asesinos de la luna (2023) [4k 2160p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?url=http%3A%2F%2F127.0.0.1%3A6878%2Face%2Fgetstream%3Fid%3D18c4c8ad7f555cc4bc8913dfe4a10fff02756aa2%26hlc%3D1%26transcode_audio%3D0%26transcode_mp3%3D0%26transcode_ac3%3D0%26preferred_audio_language%3Deng&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1 tvg-name="Ocho apellidos marroquis (2023) [Bluray 1080p][Esp](wolfmax4k.com).mkv" acestream-autosearch="1" group-title="movies",Ocho apellidos marroquis (2023) [Bluray 1080p][Esp](wolfmax4k.com).mkv
+http://192.168.1.54:6878/ace/getstream?url=http%3A%2F%2F127.0.0.1%3A6878%2Face%2Fgetstream%3Fid%3Dfadd2db4e1fcec19278fc520dd5f5b45668e84fc%26hlc%3D1%26transcode_audio%3D0%26transcode_mp3%3D0%26transcode_ac3%3D0%26preferred_audio_language%3Deng&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
